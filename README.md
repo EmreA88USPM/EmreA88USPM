@@ -1,7 +1,7 @@
 # README.md
 Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <br />
-<span style='font-size:100px;'>&#9829;</span> I Love Programming <span style='font-size:100px;'>&#9829;</span>
+<span style='font-size:100px;'>&#9829;</span> <p style="font-family:georgia">I Love Programming</p> <span style='font-size:100px;'>&#9829;</span>
 
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
