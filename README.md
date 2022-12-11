@@ -35,4 +35,7 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <a href="https://www.buymeacoffee.com/akyolemre8x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 readme-using
+<br />
 https://github.com/tandpfun/skill-icons#specifying-icons
+<br />
+https://github.com/anuraghazra/github-readme-stats
