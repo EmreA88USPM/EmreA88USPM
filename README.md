@@ -3,6 +3,10 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <br />
 <span style='font-size:100px;'>&#9829;</span> <i style="font-family:georgia">I Love Programming</i> <span style='font-size:100px;'>&#9829;</span>
 
+![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&theme=dark&layout=compact)](https://github.com/emrea88uspm/github-readme-stats)
+
+
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
@@ -14,10 +18,6 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 <br />
 <br />
 [![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode,unity,unreal&theme=light)]()
-
-![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&theme=dark&layout=compact)](https://github.com/emrea88uspm/github-readme-stats)
-
 
 <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>    LINKS    <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>
 
