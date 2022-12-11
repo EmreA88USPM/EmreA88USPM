@@ -16,7 +16,7 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 [![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode,unity,unreal&theme=light)](https://skillicons.dev)
 
 ![Emre's GitHub Stats](https://github-readme-stats.vercel.app/api?username=emrea88uspm&theme=dark&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&layout=compact)](https://github.com/emrea88uspm/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=emrea88uspm&theme=dark&layout=compact)](https://github.com/emrea88uspm/github-readme-stats)
 
 
 <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>    LINKS    <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>
