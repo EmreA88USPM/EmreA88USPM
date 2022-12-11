@@ -31,7 +31,7 @@ Hello, I am a C++ and Java developer.I am interested in design and modeling!
 [![linkedin](https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=Linkedin&logoColor=aqua)](https://www.linkedin.com/in/emre-a-48713a258/)
 
 <span style='font-size:100px;'>&#9829;</span> <i style="font-family:georgia"> DONATE </i> <span style='font-size:100px;'>&#9829;</span>
-<script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="akyolemre8x" data-color="#FFDD00" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#000000" data-coffee-color="#ffffff" ></script>
+<a href="https://www.buymeacoffee.com/akyolemre8x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 
 readme-using
 https://github.com/tandpfun/skill-icons#specifying-icons
