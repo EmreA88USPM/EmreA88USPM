@@ -1,5 +1,5 @@
 # README.md
-Hello, I am a C++ and Java developer.I am interested in design and modeling!
+Hello, I am a C++ and Java developer. I am interested in design and modeling!
 <br />
 <span style='font-size:100px;'>&#9829;</span> <i style="font-family:georgia">I Love Programming</i> <span style='font-size:100px;'>&#9829;</span>
 
