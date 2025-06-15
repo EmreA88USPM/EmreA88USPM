@@ -10,14 +10,14 @@ Hello, I am a C++ and Java developer. I am interested in design and modeling!
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,cs&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=java,cpp,html&theme=light)]()
 
 
 
 <em><strong>Programs</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode,unity,unreal&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode&theme=light)]()
 
 <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>    LINKS    <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>
 
