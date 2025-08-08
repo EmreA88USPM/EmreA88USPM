@@ -17,7 +17,7 @@ Hello, I am a C++ and Java developer. I am interested in design and modeling!
 <em><strong>Programs</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
-[![My Skills](https://skillicons.dev/icons?i=blender,eclipse,idea,visualstudio,vscode&theme=light)]()
+[![My Skills](https://skillicons.dev/icons?i=vscode,eclipse,blender&theme=light)]()
 
 <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>    LINKS    <span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span><span style='font-size:100px;'>&#8659;</span>
 
