@@ -33,6 +33,8 @@ Hello, I am a C++ and Java developer. I am interested in design and modeling!
 <span style='font-size:100px;'>&#9829;</span> <i style="font-family:georgia"> DONATE </i> <span style='font-size:100px;'>&#9829;</span>
 <br />
 <a href="https://www.buymeacoffee.com/akyolemre8x" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
+<br />
+[![](https://visitor-badge.laobi.icu/badge?page_id=EmreA88USPM.EmreA88USPM)](#)
 
 readme
 <br />
