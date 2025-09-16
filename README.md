@@ -36,6 +36,4 @@ Hello, I am a C++ and Java developer. I am interested in design and modeling!
 
 readme
 <br />
-https://github.com/tandpfun/skill-icons#specifying-icons
-<br />
 https://github.com/anuraghazra/github-readme-stats
