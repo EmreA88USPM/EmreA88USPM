@@ -10,7 +10,7 @@ Hello, I am a C++ and Java developer. I am interested in design and modeling!
 <em><strong>Languages</strong></em> <span style='font-size:100px;'>&#8658;</span>
 <br />
 <br />
-[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,java,js,html&theme=light)]()
+[![My Skills](https://go-skill-icons.vercel.app/api/icons?i=assembly,c,cpp,java,html&theme=light)]()
 
 
 
